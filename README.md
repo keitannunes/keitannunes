@@ -1,5 +1,3 @@
-# Keitan Nunes
-
 Software developer focused on backend systems, infrastructure, and tooling.  
 I build and operate production systems end-to-end, including APIs, databases, deployment, and long-running services.
 
